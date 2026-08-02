@@ -1,0 +1,6 @@
+{
+  "name": "Guardian AI",
+  "description": "AI-powered emergency response platform with real-time incident reasoning, smart hospital selection, and Prava Emergency AutoPay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

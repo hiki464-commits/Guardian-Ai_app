@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Outline -->
+    <path
+        android:fillColor="#6C63FF"
+        android:pathData="M54,24 L78,32 C78,60 54,78 54,84 C54,78 30,60 30,32 Z" />
+    <!-- Inner Accent Shield -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M54,28 L73,35 C73,58 54,73 54,78 C54,73 35,58 35,35 Z" />
+    <!-- Emergency AI Pulse Bolt -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,38 L42,52 L51,52 L48,68 L64,50 L55,50 Z" />
+</vector>
